@@ -22,9 +22,7 @@
 
 # AI Course - Lab Work
 
-Welcome to the AI Labs! This repository contains the lab work for the course, covering fundamental Python, essential libraries like Pandas and NumPy, working with Kaggle datasets, and advanced AI tasks using Hugging Face.
-
-## Lab Outline
+Welcome to the AI Labs! This repository contains the lab work for the course, covering fundamental and advanced Python programming, data structures, searching and sorting algorithms, data analysis with Pandas and NumPy, web scraping, digital image processing using OpenCV, and machine learning model tracking with MLFlow. Additionally, it explores large language model fine-tuning with Hugging Face, enabling students to gain hands-on experience in AI-driven applications. This structured curriculum ensures a comprehensive understanding of AI, programming, and data science techniques, preparing students for real-world problem-solving.
 
 ### Lab-0: Python Fundamentals
 - IDE Setup
@@ -58,7 +56,6 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Custom Exceptions
 - OOPs Assignment
 
-  
 ### Lab-03: Searching & Sorting
 - Linear Search
 - Binary Search
@@ -168,7 +165,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
   - Data Preparation House Price Prediction
   - Model Building And MLFLOW Tracking
 - Deep Learning ANN Model Building Integration With MLFLOW
-  - ANN With MLFLOW- Part 1
+  - ANN With MLFLOW
 
 ## How to Use This Repository
 1. Clone this repository to your local machine:
@@ -180,7 +177,7 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
-For queries please email me at jamil138.amin@gmail.com
+For queries please email me at: jamil138.amin@gmail.com
 
 ## Licenses
 
