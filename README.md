@@ -167,6 +167,9 @@ Welcome to the AI Labs! This repository contains the lab work for the course, co
 - Deep Learning ANN Model Building Integration With MLFLOW
   - ANN With MLFLOW
 
+### Lab 10: MLFLOW With AWS Cloud
+- Content In process
+
 ## How to Use This Repository
 1. Clone this repository to your local machine:
    ```bash
